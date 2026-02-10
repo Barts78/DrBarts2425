@@ -1,0 +1,4 @@
+- source: Match day 21 Dashboard.qmd
+  quarto-pub:
+    - id: 669ac354-d372-44c4-ab57-d622e2ca24f0
+      url: 'https://drbarts.quarto.pub/match-day-21-season-2425'

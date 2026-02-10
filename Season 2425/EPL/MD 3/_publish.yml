@@ -1,0 +1,4 @@
+- source: Match day 3 Dashboard.qmd
+  quarto-pub:
+    - id: 97e1bf3b-a5be-4d60-8f35-a326c0b803b3
+      url: 'https://drbarts.quarto.pub/match-day-3-season-2425'

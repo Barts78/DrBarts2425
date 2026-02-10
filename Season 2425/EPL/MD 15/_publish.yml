@@ -1,0 +1,4 @@
+- source: Match day 15 Dashboard.qmd
+  quarto-pub:
+    - id: 58360782-4180-4eb2-bc56-2afe4c76bb37
+      url: 'https://drbarts.quarto.pub/match-day-15-season-2425'

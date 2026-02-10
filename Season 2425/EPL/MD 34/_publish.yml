@@ -1,0 +1,4 @@
+- source: Match Day 34 Dashboard.qmd
+  quarto-pub:
+    - id: a041ca7e-6a8c-4a48-8ec0-67f60f36d232
+      url: 'https://drbarts.quarto.pub/match-day-34-season-2425-2329'

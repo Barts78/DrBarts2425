@@ -1,0 +1,4 @@
+- source: Match day 20 Dashboard.qmd
+  quarto-pub:
+    - id: afb12485-aea8-497a-93ce-cad02fe1e39f
+      url: 'https://drbarts.quarto.pub/match-day-20-season-2425'

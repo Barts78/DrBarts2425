@@ -1,0 +1,4 @@
+- source: Match day 23 Dashboard.qmd
+  quarto-pub:
+    - id: 1d36bd9a-adb4-4980-a8b0-d98a432f8cab
+      url: 'https://drbarts.quarto.pub/match-day-23-season-2425'

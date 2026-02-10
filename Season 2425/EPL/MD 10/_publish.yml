@@ -1,0 +1,4 @@
+- source: Match day 10 Dashboard.qmd
+  quarto-pub:
+    - id: fbf51c25-67a2-41d7-bac0-47ffe9893c2a
+      url: 'https://drbarts.quarto.pub/match-day-10-season-2425'

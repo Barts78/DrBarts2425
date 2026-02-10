@@ -46,7 +46,7 @@ This is a home for my football visualisation work across **AI UP** and **TMM** p
 
 EPL Games for the **2024 - 2025** Season
 ::::
-## Browse by Match Week
+## Browse by Match Day
 
 
 ```{r}

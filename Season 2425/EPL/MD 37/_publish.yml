@@ -1,0 +1,4 @@
+- source: Match day 37 Dashboard.qmd
+  quarto-pub:
+    - id: 231eb460-e154-45be-8b00-1318a370feb4
+      url: 'https://drbarts.quarto.pub/match-day-37-season-2425'

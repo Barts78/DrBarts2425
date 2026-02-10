@@ -1,0 +1,4 @@
+- source: Match day 17 Dashboard.qmd
+  quarto-pub:
+    - id: cf6bf5d2-d0b5-4a1b-9d4f-7c57b8b6782a
+      url: 'https://drbarts.quarto.pub/match-day-17-season-2425'

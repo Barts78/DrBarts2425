@@ -1,0 +1,4 @@
+- source: Match day 11 Dashboard.qmd
+  quarto-pub:
+    - id: 6a9e2a26-4aeb-4769-990b-561caffa83db
+      url: 'https://drbarts.quarto.pub/match-day-11-season-2425'

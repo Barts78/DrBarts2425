@@ -1,0 +1,4 @@
+- source: Match day 19 Dashboard.qmd
+  quarto-pub:
+    - id: 1a365475-e129-4d5c-986a-d1dab9720971
+      url: 'https://drbarts.quarto.pub/match-day-19-season-2425'

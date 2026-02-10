@@ -1,0 +1,4 @@
+- source: Match day 13 Dashboard.qmd
+  quarto-pub:
+    - id: 36029633-f7c3-44e0-8988-817936147799
+      url: 'https://drbarts.quarto.pub/match-day-13-season-2425-5602'

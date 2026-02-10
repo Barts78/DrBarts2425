@@ -1,0 +1,4 @@
+- source: Match day 16 Dashboard.qmd
+  quarto-pub:
+    - id: 4bb0121c-32b5-42bb-82e5-1b8e9fec77d8
+      url: 'https://drbarts.quarto.pub/match-day-16-season-2425'

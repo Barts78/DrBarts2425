@@ -1,0 +1,4 @@
+- source: Match day 4 Dashboard.qmd
+  quarto-pub:
+    - id: 2dc06875-7081-4c37-a8da-b53151fed56c
+      url: 'https://drbarts.quarto.pub/match-day-4-season-2425'

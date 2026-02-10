@@ -1,0 +1,4 @@
+- source: Match day 18 Dashboard.qmd
+  quarto-pub:
+    - id: 4a721aba-5f08-411d-b9b1-cd5b2e2558e3
+      url: 'https://drbarts.quarto.pub/match-day-18-season-2425'

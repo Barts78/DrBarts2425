@@ -1,0 +1,4 @@
+- source: Match Day 36 Dashboard.qmd
+  quarto-pub:
+    - id: 77ebbbc8-65f9-40eb-ad27-8b3f7e37afaf
+      url: 'https://drbarts.quarto.pub/match-day-36-season-2425'

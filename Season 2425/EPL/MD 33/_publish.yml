@@ -1,0 +1,4 @@
+- source: Match Day 33 Dashboard.qmd
+  quarto-pub:
+    - id: 641097d8-9cd3-4c31-9897-f6c7e1e4f4f9
+      url: 'https://drbarts.quarto.pub/match-day-33-season-2425'

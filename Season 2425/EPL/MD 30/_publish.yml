@@ -1,0 +1,4 @@
+- source: Match Day 30 Dashboard.qmd
+  quarto-pub:
+    - id: c50dd2d6-05d2-49c5-b147-682ba76229a6
+      url: 'https://drbarts.quarto.pub/match-day-30-season-2425'

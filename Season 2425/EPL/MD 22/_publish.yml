@@ -1,0 +1,4 @@
+- source: Match day 22 Dashboard.qmd
+  quarto-pub:
+    - id: b9d0ece8-08f7-4074-a3e4-61520347222f
+      url: 'https://drbarts.quarto.pub/match-day-22-season-2425'

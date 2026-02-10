@@ -1,0 +1,4 @@
+- source: Match day 12 Dashboard.qmd
+  quarto-pub:
+    - id: 177fb8d8-db57-4975-91e2-ecb4610ed50c
+      url: 'https://drbarts.quarto.pub/match-day-12-season-2425'

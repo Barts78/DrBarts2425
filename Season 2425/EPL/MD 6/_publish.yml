@@ -1,0 +1,4 @@
+- source: Match day 6 Dashboard.qmd
+  quarto-pub:
+    - id: 5baa8869-c682-4f31-b5d2-b68909103496
+      url: 'https://drbarts.quarto.pub/match-day-6-season-2425-db91'

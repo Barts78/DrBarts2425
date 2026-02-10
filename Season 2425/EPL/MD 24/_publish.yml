@@ -1,0 +1,4 @@
+- source: Match day 24 Dashboard.qmd
+  quarto-pub:
+    - id: fecd4176-59cc-4780-9f9b-783c63308537
+      url: 'https://drbarts.quarto.pub/match-day-24-season-2425'

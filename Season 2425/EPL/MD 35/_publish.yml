@@ -1,0 +1,4 @@
+- source: Match Day 35 Dashboard.qmd
+  quarto-pub:
+    - id: 7e16f385-8a19-4ea6-9d78-a94942d94f7e
+      url: 'https://drbarts.quarto.pub/match-day-35-season-2425'

@@ -1,0 +1,4 @@
+- source: Match day 9 Dashboard.qmd
+  quarto-pub:
+    - id: 77534768-5072-4608-adc0-fa1544477bf7
+      url: 'https://drbarts.quarto.pub/match-day-9-season-2425-b12f'
