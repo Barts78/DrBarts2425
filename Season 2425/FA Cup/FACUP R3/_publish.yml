@@ -1,0 +1,4 @@
+- source: FAC Match day R3 Dashboard.qmd
+  quarto-pub:
+    - id: ba31a543-aa78-4db1-ad55-deb9b897c243
+      url: 'https://drbarts.quarto.pub/fa-cup-match-day-r3-season-2425'

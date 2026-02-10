@@ -1,0 +1,4 @@
+- source: FAC Match day R4 Dashboard.qmd
+  quarto-pub:
+    - id: aa2359c9-9ae6-4bbb-9b27-d47bc079c0de
+      url: 'https://drbarts.quarto.pub/facup-match-day-r4-season-2425'
