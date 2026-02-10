@@ -46,7 +46,7 @@ This is a home for my football visualisation work across **AI UP** and **TMM** p
 
 Champions League Games for the **2024 - 2025** Season
 ::::
-## Browse by Match Week / Round
+## Browse by Match Day / Round
 
 
 ```{r}
@@ -127,7 +127,7 @@ cards <- vapply(md_dirs, function(md) {
   html_file <- sort(html_files)[1]
 
   # Link URL (relative)
-  rel_path <- file.path(md, "docs", html_file)
+  rel_path <- file.path(md, html_file)
   rel_path <- gsub("\\\\", "/", rel_path)
   url <- utils::URLencode(rel_path)
 
