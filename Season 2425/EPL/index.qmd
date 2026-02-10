@@ -85,11 +85,6 @@ pick_md_thumb <- function(md, base_dir = ".") {
   }
 }
 
-#pick_thumb <- function(md) {
-#  thumb <- unname(thumb_map[md])
-#  if (is.na(thumb) || length(thumb) == 0) default_thumb else thumb
-#}
-
 # Extract a nice subtitle from the HTML itself
 extract_subtitle <- function(html_path) {
   x <- tryCatch(readLines(html_path, warn = FALSE, encoding = "UTF-8"), error = function(e) character(0))
