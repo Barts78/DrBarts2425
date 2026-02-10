@@ -70,7 +70,7 @@ pick_md_thumb <- function(md, base_dir = ".") {
   thumb_path <- file.path(
     base_dir,
     md,
-    "docs",
+    #"docs",
     paste0("CL-Match-day-", md_num, "-Dashboard_files"),
     "figure-html",
     "Match Result Probablity Plot-1.png"
@@ -84,11 +84,6 @@ pick_md_thumb <- function(md, base_dir = ".") {
     "Images/champions-league-ball.png"   # fallback
   }
 }
-
-#pick_thumb <- function(md) {
-#  thumb <- unname(thumb_map[md])
-#  if (is.na(thumb) || length(thumb) == 0) default_thumb else thumb
-#}
 
 # Extract a nice subtitle from the HTML itself
 extract_subtitle <- function(html_path) {
@@ -123,7 +118,7 @@ extract_subtitle <- function(html_path) {
 
 cards <- vapply(md_dirs, function(md) {
 
-  docs_dir <- file.path(base_dir, md, "docs")
+  docs_dir <- file.path(base_dir, md)
   if (!dir.exists(docs_dir)) return(NA_character_)
 
   html_files <- list.files(docs_dir, pattern = "\\.html$", full.names = FALSE)

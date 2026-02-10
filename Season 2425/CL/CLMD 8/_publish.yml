@@ -1,0 +1,4 @@
+- source: CL Match day 8 Dashboard.qmd
+  quarto-pub:
+    - id: d9507b02-16fd-45a8-b18e-82bc00c790b7
+      url: 'https://drbarts.quarto.pub/cl-match-day-8-season-2425'

@@ -1,0 +1,4 @@
+- source: CL Match day 2 Dashboard.qmd
+  quarto-pub:
+    - id: c96bc202-32a7-467c-907e-223f4a9dda09
+      url: 'https://drbarts.quarto.pub/cl-match-day-2-season-2425'

@@ -1,0 +1,4 @@
+- source: CL Match day 6 Dashboard.qmd
+  quarto-pub:
+    - id: 7e2d12ba-2bd4-4e30-951f-4cacabdba44f
+      url: 'https://drbarts.quarto.pub/cl-match-day-6-season-2425-2639'

@@ -1,0 +1,4 @@
+- source: CL Match day 7 Dashboard.qmd
+  quarto-pub:
+    - id: 3f5a5081-916e-43c1-8224-6965cface0cb
+      url: 'https://drbarts.quarto.pub/cl-match-day-7-season-2425-76dd'

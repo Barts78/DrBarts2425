@@ -1,0 +1,4 @@
+- source: CL Match day R16 Leg 2 Dashboard.qmd
+  quarto-pub:
+    - id: b9681470-80db-4a9f-bc83-5518f454782b
+      url: 'https://drbarts.quarto.pub/cl-match-day-r16-leg-2-season-2425'

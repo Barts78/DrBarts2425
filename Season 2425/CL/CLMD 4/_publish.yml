@@ -1,0 +1,4 @@
+- source: CL Match day 4 Dashboard.qmd
+  quarto-pub:
+    - id: d3ff5cb8-b7c9-4b4a-856f-8971cbb79942
+      url: 'https://drbarts.quarto.pub/cl-match-day-4-season-2425'

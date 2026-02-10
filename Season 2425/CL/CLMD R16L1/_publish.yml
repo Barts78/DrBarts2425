@@ -1,0 +1,4 @@
+- source: Match day CLR16L1 Dashboard.qmd
+  quarto-pub:
+    - id: 81e1f970-c6ba-4203-b5c9-108bd2449d1e
+      url: 'https://drbarts.quarto.pub/cl-match-day-r16-leg-1-season-2425'

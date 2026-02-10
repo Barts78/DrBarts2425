@@ -1,0 +1,4 @@
+- source: CL Match day 5 Dashboard.qmd
+  quarto-pub:
+    - id: 72f090c6-a0a0-43bb-b05f-367b1962cfde
+      url: 'https://drbarts.quarto.pub/cl-match-day-5-season-2425-991f'
