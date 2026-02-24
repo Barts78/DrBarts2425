@@ -1,0 +1,4 @@
+- source: Mid Season Oct 2425 Dashboard.qmd
+  quarto-pub:
+    - id: ab862709-8f80-41e0-bf38-575c206d67ea
+      url: 'https://drbarts.quarto.pub/mid-season-review-oct-2425'

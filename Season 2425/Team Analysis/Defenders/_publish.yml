@@ -1,0 +1,4 @@
+- source: Defenders Feb 2425 Dashboard.qmd
+  quarto-pub:
+    - id: 0c88f21a-4607-4ff1-9d58-dd3460a4cd19
+      url: 'https://drbarts.quarto.pub/defenders---feb-2425'
